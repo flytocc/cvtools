@@ -4,7 +4,7 @@
 # e-mail   : jgf0719@foxmail.com
 # software : PyCharm
 import numpy as np
-import cv2.cv2 as cv
+import cv2 as cv
 from shapely.geometry import Polygon
 
 

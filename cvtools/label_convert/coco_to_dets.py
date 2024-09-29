@@ -6,7 +6,7 @@
 
 import numpy as np
 from collections import defaultdict
-import cv2.cv2 as cv
+import cv2 as cv
 
 import cvtools
 

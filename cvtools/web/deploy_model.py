@@ -7,7 +7,7 @@
 
 import flask
 import io
-import cv2.cv2 as cv
+import cv2 as cv
 from PIL import Image
 import numpy as np
 import cvtools

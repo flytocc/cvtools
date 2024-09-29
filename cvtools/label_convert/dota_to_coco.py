@@ -7,7 +7,7 @@
 import json
 import os.path as osp
 from tqdm import tqdm
-import cv2.cv2 as cv
+import cv2 as cv
 from PIL import Image
 import numpy as np
 

@@ -8,7 +8,7 @@ import os
 import os.path as osp
 import sys
 import numpy as np
-import cv2.cv2 as cv
+import cv2 as cv
 from PIL import Image, ImageDraw
 import copy
 import matplotlib

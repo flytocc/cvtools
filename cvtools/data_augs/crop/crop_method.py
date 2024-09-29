@@ -8,7 +8,7 @@
 可选实现match_anns方法"""
 import numpy as np
 import random
-import cv2.cv2 as cv
+import cv2 as cv
 import warnings
 
 from cvtools.data_augs.crop.crop_abc import CropMethod
